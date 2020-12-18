@@ -1,0 +1,13 @@
+C:\FinalProject205\FinalProject205\bin\Debug\netcoreapp3.1\FinalProject205.exe
+C:\FinalProject205\FinalProject205\bin\Debug\netcoreapp3.1\FinalProject205.deps.json
+C:\FinalProject205\FinalProject205\bin\Debug\netcoreapp3.1\FinalProject205.runtimeconfig.json
+C:\FinalProject205\FinalProject205\bin\Debug\netcoreapp3.1\FinalProject205.runtimeconfig.dev.json
+C:\FinalProject205\FinalProject205\bin\Debug\netcoreapp3.1\FinalProject205.dll
+C:\FinalProject205\FinalProject205\bin\Debug\netcoreapp3.1\FinalProject205.pdb
+C:\FinalProject205\FinalProject205\obj\Debug\netcoreapp3.1\FinalProject205.csprojAssemblyReference.cache
+C:\FinalProject205\FinalProject205\obj\Debug\netcoreapp3.1\FinalProject205.AssemblyInfoInputs.cache
+C:\FinalProject205\FinalProject205\obj\Debug\netcoreapp3.1\FinalProject205.AssemblyInfo.cs
+C:\FinalProject205\FinalProject205\obj\Debug\netcoreapp3.1\FinalProject205.csproj.CoreCompileInputs.cache
+C:\FinalProject205\FinalProject205\obj\Debug\netcoreapp3.1\FinalProject205.dll
+C:\FinalProject205\FinalProject205\obj\Debug\netcoreapp3.1\FinalProject205.pdb
+C:\FinalProject205\FinalProject205\obj\Debug\netcoreapp3.1\FinalProject205.genruntimeconfig.cache
